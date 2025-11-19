@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/malvasan/Project-Basic-Informational-Site-/issues"
   },
-  "homepage": "https://github.com/malvasan/Project-Basic-Informational-Site-#readme"
+  "homepage": "https://github.com/malvasan/Project-Basic-Informational-Site-#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
